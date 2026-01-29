@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
     int num;
-    for (int num = 0; num < 10; num++)
+    for (int num = 1; num < 10; num++)
     {
         cout<<"First 10 natural number :" << num << endl;
     }
